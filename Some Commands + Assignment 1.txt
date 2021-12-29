@@ -1,0 +1,43 @@
+# Project #1
+We will be learning crating an HTML webpage displaying recipes and images.
+We will also be using a numberous amount of skills such
+    Creating a git and linking it to github repository 
+    Creating a boilerhead
+    Creating a list using bullet points indicating steps, and numbered points indicating steps on how to make the recipes
+    Attaching images to the page to show what the finished product looks like
+    And make it as clean as possible by creating numerous different directories to keep it together
+    Execute all commands without looking back as much as possible.
+
+Some Commands that is useful
+    cd - change directory
+    cd .. - change into a different directory
+    ls - list directory
+    mkdir - make directory
+    rm.. - remove
+    rmdir - remove directory
+    touch .. - create a file
+
+    git log
+    git status - status of git
+    git add - add a git file to the stage
+    git remove - remove a git file from the stage
+    git commit -m "Edited ..." - commit some changes to the git file
+    git push - push the file for the full change
+
+    <!Doctype html>
+    <strong> - bold
+    <em> - emphasis
+    <ul> - unordered list
+    <ol> - ordered list
+    <li> - list them out
+    <h1> ... <h7> - hierarchy of headers
+    <p1> ... <p#> - hierarchy of paragraphs
+
+    <img src = "....jpg"> Attach an images
+        (Directory)/...jpg - Pulls the image from a directory
+    <a href="....">Click me</a> - This adds an absolute link to a website. With the "Click me" as a link to click on 
+    <a href="....html">Click</a> - This adds a relative link to a home made html page in your directory as a link to click on.
+        <directory)...html - Pulls the html link from a directory
+
+
+Creating a repo on github is one of the greatest save features, and you should do it often so you can revisit your codes and edit/look at them if necessary.
