@@ -7,3 +7,20 @@ We will also be using a numberous amount of skills such
     Attaching images to the page to show what the finished product looks like
     And make it as clean as possible by creating numerous different directories to keep it together
     Execute all commands without looking back as much as possible.
+
+Some Commands that is useful
+    cd - change directory
+    cd .. - change into a different directory
+    ls - list directory
+    mkdir - make directory
+    rm.. - remove
+    rmdir - remove directory
+    touch .. - create a file
+
+    git status - status of git
+    git add - add a git file to the stage
+    git remove - remove a git file from the stage
+    git commit -m "..." - commit some changes to the git file
+    git push - push the file for the full change
+
+    
